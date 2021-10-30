@@ -92,15 +92,13 @@ Desde já, é uma honra ajudar você em seus primeiros passos!
 
 #### Sites para aprender a programar jogando
 
-Sites para aprender a programar jogando:
-
 - CODE COMBAT
 - CHECK IO
 - CODE HUNT (MICROSOFT)
 - CODE AVENGERS
 - SCHEMAVERSE
 
-O que continuar estudando?
+### O que continuar estudando?
 
 - Lógica de programação e algoritmos;
 - Boas práticas de programação;
@@ -109,7 +107,7 @@ O que continuar estudando?
 - Tópicos em Engenharia de Software
 - Programação WEB
 
-Documentários sobre tecnologia:
+### Documentários sobre tecnologia:
 
 - Silicon Cowboys
 - Atari: Game Over
@@ -119,7 +117,7 @@ Documentários sobre tecnologia:
 - Codegirl
 - Steve Jobs - O Homem e a Máquina
 
-Filmes sobre tecnologia:
+### Filmes sobre tecnologia:
 
 - Uma Odisseia no Espaço
 - Jobs
@@ -131,7 +129,7 @@ Filmes sobre tecnologia:
 - Blade Runner
 - Matrix
 
-Algumas dicas:
+### Algumas dicas:
 
 - Faça seus próprios projetos;
 - Esteja sempre compartilhando o que faz;
